@@ -44,3 +44,7 @@
     </application>
 
 </manifest>
+
+<queries>
+    <package android:name="com.netflix.mediaclient" />
+</queries>
